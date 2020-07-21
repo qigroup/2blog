@@ -17,7 +17,7 @@ tags:
 
 先不写了，找图找了半天累死了。
 
-![准备开魔眼（图挂了）](/img/shiki_knife.jpg "开始动手了")
+![准备开魔眼（图挂了）](/img/shiki_knife.jpg "此处应有直死之魔眼")
 ["空の境界 007"](https://www.flickr.com/photos/kyonseijin/2511147518/in/photostream/) by [kyonseijin](https://www.flickr.com/photos/95105442@N00) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)
 
 ![两仪式背影一张（似乎图挂了）](/img/shiki_toy.jpg "两仪式（手办）的背影")
