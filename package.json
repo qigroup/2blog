@@ -17,6 +17,7 @@
     "hexo-renderer-scss": "^1.2.0",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3",
+    "live2d-widget-model-hijiki": "^1.0.5",
     "live2d-widget-model-wanko": "^1.0.5"
   }
 }
