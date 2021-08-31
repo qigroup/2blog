@@ -1,0 +1,17 @@
+<footer id="footer">
+  <% if (theme.sidebar === 'bottom'){ %>
+    <%- partial('_partial/sidebar') %>
+  <% } %>
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy;<%= date(new Date(), 'YYYY') - 1 %> - <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />除特别声明处外，本网站的内容均采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。<br>
+      由<a href="http://hexo.io/" target="_blank">Hexo</a>强力驱动 | 
+      主题-<a href="https://github.com/ShanaMaid/hexo-theme-shana">Shana</a>魔改版
+      <% if (theme.CNZZ){ %>
+        |<script src="http://s11.cnzz.com/z_stat.php?id=<%= theme.CNZZ %>&web_id=<%= theme.CNZZ %>" language="JavaScript"></script>
+      <% } %>
+    </div>
+    
+  </div>
+</footer>
