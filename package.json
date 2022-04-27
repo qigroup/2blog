@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "5.4.0"
+    "version": "5.4.2"
   },
   "dependencies": {
     "hexo": "latest",
@@ -16,6 +16,7 @@
     "hexo-renderer-marked": "latest",
     "hexo-renderer-scss": "latest",
     "hexo-renderer-stylus": "latest",
+    "hexo-renderer-swig": "latest",
     "hexo-server": "latest",
     "live2d-widget-model-hijiki": "latest",
     "live2d-widget-model-wanko": "latest"

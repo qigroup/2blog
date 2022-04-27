@@ -38,7 +38,7 @@ fb_app_id:
 # GalMenu - PC端右键调出，移动端长按
 # galmenu决定是否开启
 # mp3play决定是否开启音效
-galmenu: true
+galmenu: false
 mp3play: false
 gaymenu_item:
 - name: 首页
